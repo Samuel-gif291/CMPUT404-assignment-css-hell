@@ -1,0 +1,82 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 210%;
+  }
+  
+  h2 {
+    font-size: 180%;
+  }
+  
+  .banner {
+    width: auto;
+    background: linear-gradient(
+      266deg,
+      rgba(229, 0, 253, 1) 30%,
+      rgba(129, 217, 253, 1) 80%,
+      rgba(129, 0, 253, 1) 100%
+    );
+  
+    color: rgb(146, 246, 225);
+  }
+  
+  .sub-container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height: fit-content;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  
+  .aboutme {
+    text-align: left;
+  }
+  
+  .important-points {
+    height: 80vh;
+    width: 40%;
+    background-color: rgb(212, 24, 240);
+  }
+  
+  .aboutme-subsection {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  img {
+    margin-right: 22px;
+  }
+  
+  .p-style {
+    max-width: 85%;
+  }
+  
+  .links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0) 100%,
+      rgba(0, 0, 0) 100%,
+      rgb(0, 0, 0) 100%
+    );
+  
+    color: white;
+  }
+  
+  .aboutme-text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .important-points h3 {
+    color: rgb(0, 162, 255);
+  }

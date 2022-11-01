@@ -12,6 +12,16 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Modifications To Part1
+======================
+• Changed the styling inside of the HTML files.
+• Linked an external CSS file (aka gutenberg.css) in the head tag for each html document.
+• Changed some background colours and link colours.
+
+Collaborators
+=============
+• None
+
 License/Copyright
 =================
 
